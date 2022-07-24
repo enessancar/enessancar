@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tuğberk Can Özen</h1>
+<h1 align="center">Hi 👋, I'm Enes Sancar </h1>
 <h3 align="center"> iOS Developer | Self Learner</h3>
 
 
