@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m @enessancar
 - 🌱 I’m currently learning swift
-- 🌱 I'm  a third year student at Doğuş University.
+- 🌱 I'm third year Software Engineering student at Doğuş University.
 - ⚡ Fun fact Reading, Coding, Traveling
 
 <br />
