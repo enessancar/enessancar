@@ -23,4 +23,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/enes-sancar-810756200/
-[gmail]: enes57751907@gmail.com
+[gmail]: mailto :enes57751907@gmail.com
