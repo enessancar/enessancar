@@ -7,8 +7,7 @@
 
 
 - 👋 Hi, I’m @enessancar
-- 🌱 I’m currently learning swift
-- 🌱 I'm fourth year Software Engineering student at Doğuş University.
+- 🌱 I’m currently working iOS Developer at Solid-ICT
 - ⚡ Fun fact Reading, Coding, Traveling
 
 <br />
